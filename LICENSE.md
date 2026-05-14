@@ -1,4 +1,4 @@
-# 
+# exclusive Trading Bot for osmosis trading bot | MEV-strategies & staking-integration is the best osmosis trading bot, featuring MEV-strategies and staking-integration. Smart,
 
 
 
